@@ -1,6 +1,5 @@
-# Order Calculation Service - SİMA Sign Task
-Bu layihə SİMA Sign tapşırığı üçün hazırlanmış sifariş hesablama servisidir.
-## Test Ssenariləri və Nəticələri
+# Order Calculation Service
+## Test Senariləri və Nəticələri
 
 ### Senari 1
 ![Senari 1](images/senari1.jpg)
